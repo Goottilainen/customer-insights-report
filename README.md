@@ -74,7 +74,8 @@ All outputs are ready to be shared with non-technical stakeholders.
 
 ##  Notes
 
-This project focuses on working with **realistic, messy data**, simulating common issues found in real-world business datasets.  
+This project focuses on working with **realistic, messy data**, simulating common issues found in real-world business datasets. 
+
 It is intended as a learning and portfolio project.
 
 ---
