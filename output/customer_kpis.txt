@@ -1,0 +1,8 @@
+CUSTOMER INSIGHTS REPORT
+------------------------
+
+Total Revenue: 94036.64
+Average Spend per Customer: 9403.66
+Top Customer: Maria Gonzalez (85000.00)
+Total Customers: 10
+Inactive Customers (>180 days): 10
